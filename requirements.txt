@@ -1,3 +1,4 @@
+transformers
 flask
 requests
 matplotlib==3.6.1
